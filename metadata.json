@@ -1,0 +1,6 @@
+{
+  "name": "King Detailing Studio",
+  "description": "Premium detailing, ceramic coating, PPF, wrapping and automotive care in Arrah, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
