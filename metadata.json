@@ -1,6 +1,0 @@
-{
-  "name": "King Detailing Studio",
-  "description": "Automotive detailing, ceramic coating, paint protection film, and custom finishes in Chandawa, Arrah, Bihar.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
